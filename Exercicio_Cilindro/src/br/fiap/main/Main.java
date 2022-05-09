@@ -26,7 +26,7 @@ public class Main {
 		
 		for(Figura f:figura) {
 			if(f instanceof Volume) {
-				System.out.println("Volume do Cilindro: " + ((Cilindro) f).calcularVolume());
+				System.out.println("Volume do Cilindro: " + ((Volume) f).calcularVolume());
 			}
 		}
 		
