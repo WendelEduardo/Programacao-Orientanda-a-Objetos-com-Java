@@ -16,7 +16,7 @@ public class Cilindro extends Figura implements Volume{
 	}
 
 	public double calcularVolume() {
-		return 0.0;
+		return 1.0;
 	}
 
 }
