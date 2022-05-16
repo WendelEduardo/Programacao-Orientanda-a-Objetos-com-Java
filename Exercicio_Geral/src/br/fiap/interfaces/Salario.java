@@ -1,7 +1,7 @@
 package br.fiap.interfaces;
 
 public interface Salario {
-	
-	public double calcularSalario(); 
+
+	public double calcularSalario();
 
 }

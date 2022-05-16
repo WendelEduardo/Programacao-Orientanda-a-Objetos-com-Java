@@ -2,7 +2,7 @@ package br.fiap.empregado;
 
 import br.fiap.pessoa.Pessoa;
 
-public class Empregado extends Pessoa{
+public class Empregado extends Pessoa {
 
 	protected String matricula;
 
@@ -10,5 +10,5 @@ public class Empregado extends Pessoa{
 		super(nome, cpf);
 		this.matricula = matricula;
 	}
-	
+
 }
